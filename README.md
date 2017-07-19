@@ -28,12 +28,26 @@ Yes, that is [five dubs](http://www.theonion.com/blogpost/fuck-everything-were-d
 
 Add another cmd called **subtitile**. Scraping WWDC session's webtvv files and transform to readable formate.
 
+like this
+
+```
+.build/debug/wwwww subtitle -s 201 -v -y 2017  
+```
+
 I've already downloaded the 144 sessions subtitles,here are them:
 
 
-| App Frameworks | 
-| --- | 
-| [201_What's New in Cocoa Touch]()  |  
+
+| Subtitiles | nums|
+| --- | --- |
+| [App Frameworks](https://github.com/Danny1451/wwwww/tree/master/2017/App%20Frameworks)  | 50 |
+| [Design](https://github.com/Danny1451/wwwww/tree/master/2017/Design)| 20 |
+|[Developer Tools](https://github.com/Danny1451/wwwww/tree/master/2017/Developer%20Tools)|15|
+|[Distribution](https://github.com/Danny1451/wwwww/tree/master/2017/Distribution)|5|
+|[Featured](https://github.com/Danny1451/wwwww/tree/master/2017/Featured)|2|
+|[Graphics and Games](https://github.com/Danny1451/wwwww/tree/master/2017/Graphics%20and%20Games)|9|
+|[Media](https://github.com/Danny1451/wwwww/tree/master/2017/Media)|15|
+|[System Frameworks](https://github.com/Danny1451/wwwww/tree/master/2017/System%20Frameworks)|19|
 
 
 
