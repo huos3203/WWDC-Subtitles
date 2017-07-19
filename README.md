@@ -23,3 +23,19 @@ Based on [Guaka](https://github.com/nsomar/Guaka) and [Kanna](https://github.com
 ## Name
 
 Yes, that is [five dubs](http://www.theonion.com/blogpost/fuck-everything-were-doing-five-blades-11056). As in, _world wide web dub dub_. Maybe _dub dub world wide web_. _dub dub dub dub dub_ if you like. Or even _dub dubbity dub dub dubbity_. Maybe it just looks like a squiggly line.
+
+## Addition By Danny
+
+Add another cmd called **subtitile**. Scraping WWDC session's webtvv files and transform to readable formate.
+
+I've already downloaded the 144 sessions subtitles,here are them:
+
+
+| App Frameworks | 
+| --- | 
+| [201_What's New in Cocoa Touch]()  |  
+
+
+
+
+
