@@ -73,6 +73,7 @@ private func configuration(command: Command) {
 
     if let output = flags.getString(name: outputPathOption.longName) {
       outputPath = URL(fileURLWithPath: output)
+        print("保存路径：\(String(describing: outputPath))")
     }
 
     return true
